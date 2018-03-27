@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActionBar View</string>
+    <string name="recycler_view">Go to recycler view</string>
+</resources>
